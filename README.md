@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for your `SelfSignedCertificateGenerator`:
-
 # Self-Signed Certificate Generator
 
 The Self-Signed Certificate Generator is a Java application that allows you to generate a self-signed X.509 certificate and corresponding private key using the Java security API and Bouncy Castle provider. This is useful for testing and development purposes when you need to create a self-signed certificate for SSL/TLS encryption.
